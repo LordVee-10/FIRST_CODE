@@ -1,0 +1,8 @@
+const score1=23;
+const score2=15;
+if(score1||score2==38){
+    console.log("Check back later");
+}
+else{
+    console.log("Try again later");
+}

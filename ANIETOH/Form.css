@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+h1{
+    text-align: center;
+    padding: 30;
+    margin: 10;
+    background-color: darkgrey;
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+body{
+    background-image:url('images (2) (25).jpeg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: cover;
+    background-color: blanchedalmond;
+    
+}
+form input{
+    width: 100%;
+    padding: 10px 5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid;
+    outline: auto;
+}
+::placeholder{
+    color: brown;
+}
+
+input[type=text],select{
+padding: 12px 20px;
+width: 50%;
+margin: 0;
+border: 2px solid;
+border-radius: 4px;
+box-sizing: border-box;
+display: inline-block;
+color: red;
+background-color: palevioletred;
+
+div{
+padding: 20px;
+background-color: blanchedalmond;
+border-radius:5px;
+}
+input[type=date]{
+padding: 12px 20px;
+width: 50%;
+margin: 0;
+border: 2px solid;
+border-radius: 4px;
+box-sizing: border-box;
+display: inline-block;
+color: red;
+background-color: palevioletred;
+
+
+}
+input[type=email],select{
+padding:  12px 20px;
+width: 50%;
+margin: 0;
+border: 2px solid;
+border-radius: 4px;
+box-sizing: border-box;
+display: flex;;
+color: red;
+background-color: palevioletred;
+}
+button{
+padding: 12px 20px;
+width: 20%;
+margin: 0;
+border: 2px solid;
+border-radius: 4px;
+box-sizing: border-box;
+display: inline;
+background-color: rgb(255, 0, 0);
+
+}
+    

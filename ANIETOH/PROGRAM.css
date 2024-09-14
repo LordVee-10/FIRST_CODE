@@ -1,0 +1,32 @@
+h1{
+    color:blueviolet
+}
+#Form{
+    width: 50%;
+    height: 700px;
+    margin:0;
+    background: 2px #e6dfdf;
+    border: 2px;
+    border-radius: 5px;
+    position: relative;
+}
+form input{
+    width: 30%;
+    padding:12px 20px ;
+    margin: 5px 0;
+    border: 2px;
+    text-align: center;
+    border-radius: 100px;
+}
+
+div{
+    padding:12px 20px ;
+    margin: 0;
+}
+button{
+    background-color:  blueviolet;
+    width: 10%;
+    padding: 6px 10px;
+    border-radius:50px ;
+
+}
